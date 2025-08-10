@@ -56,7 +56,7 @@ The primary goal is to create an **interactive, data-driven visualization** that
 ## 🚀 How to Use
 1. **Clone this repository**  
    ```bash
-   git clone https://github.com/yourusername/us-police-shootings-dashboard.git
+   git clone https://github.com/moxzy5525/us-police-shootings-dashboard.git
    ```
 2. **Download the dataset** (`shootings-data.xlsx`)
 3. **Open the Excel file** containing the dashboard.
