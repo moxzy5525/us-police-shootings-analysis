@@ -73,10 +73,6 @@ The primary goal is to create an **interactive, data-driven visualization** that
 
 ---
 
-## 📜 License
-This project is licensed under the **MIT License** – you are free to use, modify, and distribute it with attribution.
-
----
 
 ## 🙏 Acknowledgments
 - Dataset sourced from *The Washington Post* Police Shootings Database.
